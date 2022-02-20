@@ -15,7 +15,7 @@ Hardware merupakan bagian dari product, dan memori merupakan bagian dari product
 
 # PHP
 
-![Latihan2PHP](https://user-images.githubusercontent.com/94789593/154844104-91d4275b-6413-46c6-b221-dffa53793bf5.png)
+![Latihan2PHP](https://user-images.githubusercontent.com/94789593/154844176-7c20f19d-d15d-4cd1-b597-09984bd3ef0b.png)
 
 # C++
 
