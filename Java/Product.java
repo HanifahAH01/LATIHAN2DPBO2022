@@ -1,8 +1,7 @@
 public class Product{
-    
-    //Deklarasi Atribut
-    private int price;
-    private int idProduct;
+   
+    private int price;  //Deklarasi Atribut price
+    private int idProduct;  //Deklarasi Atribut id prodak
     
     //Constructor
     public Product() {
@@ -24,7 +23,7 @@ public class Product{
         return price;
     }
 
-    //Output Method
+    //Output 
     public void output_product(){
         System.out.println("Id Product : "+ this.getidProduct());
         System.out.println("Price : "+ this.getPrice());
