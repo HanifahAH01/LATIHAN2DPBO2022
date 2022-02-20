@@ -2,9 +2,8 @@ import javax.print.event.PrintEvent;
 
 public class Hardware extends Product{
     
-    //Deklarasi Atribut
-    private String brand;
-    private String model;
+    private String brand; //Deklarasi Atribut brand
+    private String model; //Deklarasi Atribut model
     
     //Constructor 
     Hardware() {
@@ -16,7 +15,7 @@ public class Hardware extends Product{
         this.setModel(model);
     }
     
-    //Get Set Methods
+    // setter and getter
     public void setModel(String model) {
         this.model = model;
     }
@@ -33,7 +32,7 @@ public class Hardware extends Product{
     }
 
     
-    //Output Methods
+    //Output 
     public void output_hardware(){
         System.out.println("Brand Hardware : "+ this.getBrand());
         System.out.println("Model Hardware : "+ this.getModel());
