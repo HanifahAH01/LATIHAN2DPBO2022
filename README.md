@@ -16,7 +16,7 @@ Saya Hanifah Al Humaira 2000152 mengerjakan tugas LATIHAN2 dalam mata kuliah Des
 
 # Python
 
-![Java Gambar](https://user-images.githubusercontent.com/94789593/154843521-9918a68e-e961-4eb6-aebd-f33681544b68.png)
+![Py Gambar](https://user-images.githubusercontent.com/94789593/154843659-d57b2f10-6069-495f-90c4-54015f149aa6.png)
 
 
 
